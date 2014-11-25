@@ -1,0 +1,6 @@
+item.villagerCannon.bulletSource.name=Villager Cannon
+item.villagerCannon.materials_0.name=Hollow Core
+item.villagerCannon.materials_1.name=Forced Core
+item.villagerCannon.materials_2.name=Forced Rod
+
+entity.villagerCannon.villagerHead.name=Villager Cannon

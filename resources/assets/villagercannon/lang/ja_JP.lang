@@ -1,0 +1,7 @@
+item.villagerCannon.bulletSource.name=村人フォース
+item.villagerCannon.materials_0.name=うつろなコア
+item.villagerCannon.materials_1.name=フォースコア
+item.villagerCannon.materials_2.name=フォースロッド
+
+entity.villagerCannon.villagerHead.name=村人波動砲
+
